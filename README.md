@@ -60,7 +60,7 @@ To run this project locally, follow these steps:
 2. Install the required Python libraries using the following command:
 
 ``
-pip install matplotlib\
+pip install matplotlib  
 pip install numpy  
 pip install turtle  
 pip install pydoc  

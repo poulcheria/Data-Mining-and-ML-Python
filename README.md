@@ -4,11 +4,9 @@
 # Project Overview
 
 This repository showcases a Python-based data analysis project that explores a dataset and utilizes two key components: DBSCAN clustering and LSTM (Long Short-Term Memory) neural network. The project explores a dataset containing the electrical energy needs of the State of California and the sources from which they are met. The dataset covers each day of the year from 1st January 2019 to 31st December 2021, recorded at a five-minute time resolution.
-## Data Preprocessing
 
-In the data preprocessing phase, we will clean the dataset, handle missing values, and perform any necessary transformations to make the data suitable for analysis. Data cleaning ensures the data is free from errors, inconsistencies, and noise.
 
-## Data Analysis:
+## Data Preprocessing & Analysis:
 
 In this section of the project, the electrical energy dataset for the State of California is subjected to comprehensive data analysis and preprocessing to ensure its suitability for further exploration and modeling. The key steps involved in the data analysis are as follows:
 
@@ -62,13 +60,13 @@ To run this project locally, follow these steps:
 2. Install the required Python libraries using the following command:
 
 ``
-pip install matplotlib
-pip install numpy
-pip install turtle
-pip install pydoc
-pip install cProfile
-pip install scikit-learn
-pip install tensorflow
-pip install nltk
-pip install genism
+pip install matplotlib  
+pip install numpy  
+pip install turtle  
+pip install pydoc  
+pip install cProfile  
+pip install scikit-learn  
+pip install tensorflow  
+pip install nltk  
+pip install genism  
 ``

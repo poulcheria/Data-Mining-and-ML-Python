@@ -69,6 +69,6 @@ pip install scikit-learn
 pip install tensorflow  
 pip install nltk  
 pip install genism  
-``
+``  
 3. After installing the required libraries, navigate to the project's main directory.  
 4. Execute the appropriate Python scripts for the desired functionalities 

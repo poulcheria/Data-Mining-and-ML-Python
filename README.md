@@ -60,13 +60,13 @@ To run this project locally, follow these steps:
 2. Install the required Python libraries using the following command:
 
 ``
-pip install matplotlib <br />
-pip install numpy  <br />
-pip install turtle  <br />
-pip install pydoc  <br />
-pip install cProfile  <br />
-pip install scikit-learn  <br />
-pip install tensorflow  <br />
-pip install nltk  <br />
-pip install genism  <br />
+pip install matplotlib \
+pip install numpy  
+pip install turtle  
+pip install pydoc  
+pip install cProfile  
+pip install scikit-learn  
+pip install tensorflow  
+pip install nltk  
+pip install genism  
 ``

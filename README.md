@@ -3,7 +3,7 @@
 
 # Project Overview
 
-This repository showcases a Python-based data analysis project that explores a dataset and utilizes two key components: DBSCAN clustering and LSTM (Long Short-Term Memory) neural network. The project explores a dataset containing the electrical energy needs of the State of California and the sources from which they are met. The dataset covers each day of the year from 1st January 2019 to 31st December 2021, recorded at a five-minute time resolution.
+This repository showcases a Python-based data analysis project that explores a dataset and utilizes two key components: DBSCAN clustering and LSTM (Long Short-Term Memory) neural network  as part of a university assignment for the Computer Engineering and Informatics Department (CEID). The project explores a dataset containing the electrical energy needs of the State of California and the sources from which they are met. The dataset covers each day of the year from 1st January 2019 to 31st December 2021, recorded at a five-minute time resolution.
 
 
 ## Data Preprocessing & Analysis:

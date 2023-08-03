@@ -57,9 +57,7 @@ The project is implemented in Python, utilizing popular libraries for data analy
 To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Install the required Python libraries using the following command:
-
-``
+2. Install the required Python libraries using the following command:  ``
 pip install matplotlib  
 pip install numpy  
 pip install turtle  
@@ -70,5 +68,5 @@ pip install tensorflow
 pip install nltk  
 pip install genism  
 ``  
-  3. After installing the required libraries, navigate to the project's main directory.  
-  4. Execute the appropriate Python scripts for the desired functionalities 
+3. After installing the required libraries, navigate to the project's main directory.  
+4. Execute the appropriate Python scripts for the desired functionalities 
